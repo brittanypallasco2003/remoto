@@ -1,0 +1,18 @@
+1. Clase
+Son un conjunto de objetos con características similares
+2. Objeto
+Es una instancia perteneciente a una clase, es cualquier cosa fisica o intangible de la realidad
+3. Método
+Son las acciones o tareas que realiza el objeto
+4. Atributo
+Son las caracteristicas que definen un atributo
+5. Setters
+Es un método que establece 
+6. Getters
+Es un método que permite obtener el valor de un atributo, por lo cual tiene un tipo de dato que retorna
+7. Puntero
+Permite señalar e identificar en memoria algo en especifico
+8. Constructor
+Es un método con el nombre de la clase a la que pertenece y permite la inicialización de atributos
+9. GitHub
+Es un servidor de repositorios de códigos en la nube
