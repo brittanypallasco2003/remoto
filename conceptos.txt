@@ -1,3 +1,4 @@
+Nombre: Brittany Espinel
 1. Clase
 Son un conjunto de objetos con características similares
 2. Objeto
